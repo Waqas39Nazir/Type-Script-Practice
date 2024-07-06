@@ -1,0 +1,5 @@
+# ............ TypeScript-00 ............
+/step-00-hello-world/node_modules
+/step-00-hello-world/package-lock.json
+/step-00-hello-world/.gitignore
+/step-00-hello-world/.DS_Store

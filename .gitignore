@@ -1,70 +1,58 @@
 # ............ TypeScript-00 ............
 /step-00-hello-world/node_modules
 /step-00-hello-world/package-lock.json
-/step-00-hello-world/.gitignore
 /step-00-hello-world/.DS_Store
 
 # ............ TypeScript-01 ............
 /step-01-json-objects/node_modules
 /step-01-json-objects/package-lock.json
-/step-01-json-objects/.gitignore
 /step-01-json-objects/.DS_Store
 
 # ............ TypeScript-02 ............
 /step-02-syntax-error/node_modules
 /step-02-syntax-error/package-lock.json
-/step-02-syntax-error/.gitignore
 /step-02-syntax-error/.DS_Store
 
 # ............ TypeScript-03 ............
 /step-03-type-error/node_modules
 /step-03-type-error/package-lock.json
-/step-03-type-error/.gitignore
 /step-03-type-error/.DS_Store
 
 # ............ TypeScript-04 ............
 /step-04-assignment-error/node_modules
 /step-04-assignment-error/package-lock.json
-/step-04-assignment-error/.gitignore
 /step-04-assignment-error/.DS_Store
 
 # ............ TypeScript-05 ............
 /step-05-strong-typing/node_modules
 /step-05-strong-typing/package-lock.json
-/step-05-strong-typing/.gitignore
 /step-05-strong-typing/.DS_Store
 
 # ............ TypeScript-06 ............
 /step-06-const-let/node_modules
 /step-06-const-let/package-lock.json
-/step-06-const-let/.gitignore
 /step-06-const-let/.DS_Store
 
 # ............ TypeScript-07 ............
 /step-07-modules/node_modules
 /step-07-modules/package-lock.json
-/step-07-modules/.gitignore
 /step-07-modules/.DS_Store
 
 # ............ TypeScript-08 ............
 /step-08-ecma-script-modules/node_modules
 /step-08-ecma-script-modules/package-lock.json
-/step-08-ecma-script-modules/.gitignore
 /step-08-ecma-script-modules/.DS_Store
 
 # ............ TypeScript-09 ............
 /step-09-inquirer/node_modules
 /step-09-inquirer/package-lock.json
-/step-09-inquirer/.gitignore
 /step-09-inquirer/.DS_Store
 
 # ............ TypeScript-10 ............
 /step-10-chalk/node_modules
 /step-10-chalk/package-lock.json
-/step-10-chalk/.gitignore
 /step-10-chalk/.DS_Store
 # ............ TypeScript-11 ............
 /step-11-union-literals/node_modules
 /step-11-union-literals/package-lock.json
-/step-11-union-literals/.gitignore
 /step-11-union-literals/.DS_Store

@@ -3,3 +3,9 @@
 /step-00-hello-world/package-lock.json
 /step-00-hello-world/.gitignore
 /step-00-hello-world/.DS_Store
+
+# ............ TypeScript-01 ............
+/step-01-json-objects/node_modules
+/step-01-json-objects/package-lock.json
+/step-01-json-objects/.gitignore
+/step-01-json-objects/.DS_Store

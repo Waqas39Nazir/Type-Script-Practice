@@ -9,3 +9,15 @@
 /step-01-json-objects/package-lock.json
 /step-01-json-objects/.gitignore
 /step-01-json-objects/.DS_Store
+
+# ............ TypeScript-02 ............
+/step-02-syntax-error/node_modules
+/step-02-syntax-error/package-lock.json
+/step-02-syntax-error/.gitignore
+/step-02-syntax-error/.DS_Store
+
+# ............ TypeScript-03 ............
+/step-03-type-error/node_modules
+/step-03-type-error/package-lock.json
+/step-03-type-error/.gitignore
+/step-03-type-error/.DS_Store

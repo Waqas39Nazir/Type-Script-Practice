@@ -21,3 +21,21 @@
 /step-03-type-error/package-lock.json
 /step-03-type-error/.gitignore
 /step-03-type-error/.DS_Store
+
+# ............ TypeScript-04 ............
+/step-04-assignment-error/node_modules
+/step-04-assignment-error/package-lock.json
+/step-04-assignment-error/.gitignore
+/step-04-assignment-error/.DS_Store
+
+# ............ TypeScript-05 ............
+/step-05-strong-typing/node_modules
+/step-05-strong-typing/package-lock.json
+/step-05-strong-typing/.gitignore
+/step-05-strong-typing/.DS_Store
+
+# ............ TypeScript-06 ............
+/step-06-const-let/node_modules
+/step-06-const-let/package-lock.json
+/step-06-const-let/.gitignore
+/step-06-const-let/.DS_Store

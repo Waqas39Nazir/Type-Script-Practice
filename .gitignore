@@ -39,3 +39,32 @@
 /step-06-const-let/package-lock.json
 /step-06-const-let/.gitignore
 /step-06-const-let/.DS_Store
+
+# ............ TypeScript-07 ............
+/step-07-modules/node_modules
+/step-07-modules/package-lock.json
+/step-07-modules/.gitignore
+/step-07-modules/.DS_Store
+
+# ............ TypeScript-08 ............
+/step-08-ecma-script-modules/node_modules
+/step-08-ecma-script-modules/package-lock.json
+/step-08-ecma-script-modules/.gitignore
+/step-08-ecma-script-modules/.DS_Store
+
+# ............ TypeScript-09 ............
+/step-09-inquirer/node_modules
+/step-09-inquirer/package-lock.json
+/step-09-inquirer/.gitignore
+/step-09-inquirer/.DS_Store
+
+# ............ TypeScript-10 ............
+/step-10-chalk/node_modules
+/step-10-chalk/package-lock.json
+/step-10-chalk/.gitignore
+/step-10-chalk/.DS_Store
+# ............ TypeScript-11 ............
+/step-11-union-literals/node_modules
+/step-11-union-literals/package-lock.json
+/step-11-union-literals/.gitignore
+/step-11-union-literals/.DS_Store

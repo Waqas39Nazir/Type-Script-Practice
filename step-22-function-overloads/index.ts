@@ -11,6 +11,7 @@ function add(
   str4: string
 ): string;
 
+//function implementation
 function add(name: string, ...args: string[]): string {
   return `${name}: ${args.join(" ")}`;
 }

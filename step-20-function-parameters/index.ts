@@ -1,3 +1,10 @@
+//function with parameters
+const addTwoNumbers = (a: number, b: number) => {
+  return a + b;
+};
+
+console.log("Sum of Two Numbers:", addTwoNumbers(3, 3));
+
 //function with optional parameters
 const functionA = (a: number, b: number, c?: number): number => {
   if (c) {

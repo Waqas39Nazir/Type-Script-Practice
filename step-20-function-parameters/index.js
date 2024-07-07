@@ -1,4 +1,9 @@
 "use strict";
+//function with parameters
+const addTwoNumbers = (a, b) => {
+    return a + b;
+};
+console.log("Sum of Two Numbers:", addTwoNumbers(3, 3));
 //function with optional parameters
 const functionA = (a, b, c) => {
     if (c) {

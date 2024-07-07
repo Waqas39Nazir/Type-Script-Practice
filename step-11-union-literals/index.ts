@@ -1,3 +1,13 @@
+// typeof type guards
+// "string"
+// "number"
+// "bigint"
+// "boolean"
+// "symbol"
+// "undefined"
+// "object"
+// "function"
+
 const printHandler = (a: number | string): void => {
   // return a;
 

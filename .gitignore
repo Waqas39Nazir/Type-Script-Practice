@@ -52,7 +52,74 @@
 /step-10-chalk/node_modules
 /step-10-chalk/package-lock.json
 /step-10-chalk/.DS_Store
+
 # ............ TypeScript-11 ............
 /step-11-union-literals/node_modules
 /step-11-union-literals/package-lock.json
 /step-11-union-literals/.DS_Store
+
+# ............ TypeScript-12 ............
+/step-12-objects/node_modules
+/step-11-objects/package-lock.json
+/step-11-objects/.DS_Store
+
+# ............ TypeScript-13 ............
+/step-13-object-aliased/node_modules
+/step-13-object-aliased/package-lock.json
+/step-13-object-aliased/.DS_Store
+
+
+# ............ TypeScript-14 ............
+/step-14-object-structural-typing/node_modules
+/step-14-object-structural-typing/package-lock.json
+/step-14-object-structural-typing/.DS_Store
+
+# ............ TypeScript-15 ............
+/step-15-nested-objects/node_modules
+/step-15-nested-objects/package-lock.json
+/step-15-nested-objects/.DS_Store
+
+# ............ TypeScript-16 ............
+/step-16-union-intersection-types/node_modules
+/step-16-union-intersection-types/package-lock.json
+/step-16-union-intersection-types/.DS_Store
+
+# ............ TypeScript-17 ............
+/step-17-explicit-casting/node_modules
+/step-17-explicit-casting/package-lock.json
+/step-17-explicit-casting/.DS_Store
+
+# ............ TypeScript-18 ............
+/step-18-arrays/node_modules
+/step-18-arrays/package-lock.json
+/step-18-arrays/.DS_Store
+
+# ............ TypeScript-19 ............
+/step-19-functions/node_modules
+/step-19-functions/package-lock.json
+/step-19-functions/.DS_Store
+
+# ............ TypeScript-20 ............
+/step-20-function-parameters/node_modules
+/step-20-function-parameters/package-lock.json
+/step-20-function-parameters/.DS_Store
+
+# ............ TypeScript-21 ............
+/step-21-async-functions/node_modules
+/step-21-async-functions/package-lock.json
+/step-21-async-functions/.DS_Store
+
+# ............ TypeScript-22 ............
+/step-22-function-overloads/node_modules
+/step-22-function-overloads/package-lock.json
+/step-22-function-overloads/.DS_Store
+
+# ............ TypeScript-23 ............
+/step-23-enum/node_modules
+/step-23-enum/package-lock.json
+/step-23-enum/.DS_Store
+
+# ............ TypeScript-24 ............
+/step-24-tuples/node_modules
+/step-24-tuples/package-lock.json
+/step-24-tsuples/.DS_Store
